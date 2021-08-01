@@ -12,3 +12,9 @@ input {
   margin-top: 5%;
   margin-left: 43%;
 }
+.error-output {
+  margin-left: 10px;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+}
