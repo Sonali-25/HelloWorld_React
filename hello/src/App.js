@@ -1,6 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 import React from 'react';
+import './App.css';
+import logo from './assets/BL_Logo.png'
+
 
 class App extends React.Component {
 
@@ -14,6 +15,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>{this.state.title}</h1>
+        <img src={logo}/>
       </div>
     )
   }
