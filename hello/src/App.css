@@ -7,3 +7,8 @@ img {
   margin: 0 auto;
   width: 25%;
 }
+input {
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 43%;
+}
