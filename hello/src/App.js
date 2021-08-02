@@ -10,7 +10,7 @@ class App extends React.Component {
     <div className= "app-main">
       <Router>
         <Switch>
-          <Route exact path = "/">
+          <Route exact path = "/home">
             <Home/>
           </Route>
         </Switch>
